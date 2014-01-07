@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of uBooks",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "uBooks": {
+            "apparmor": "uBooks.json",
+            "desktop": "uBooks.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.ubooks",
+    "title": "uBooks",
+    "version": "0.1"
+}

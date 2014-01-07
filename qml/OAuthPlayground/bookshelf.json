@@ -1,0 +1,27 @@
+{
+ "kind": "books#bookshelves",
+ "items": [
+  {
+   "kind": "books#bookshelf",
+   "id": 0,
+   "selfLink": "http://www.googleapis.com/books/v1/users/1112223334445556677/bookshelves/0",
+   "title": "Favorites",
+   "access": "PRIVATE",
+   "updated": "2011-04-22T04:03:15.416Z",
+   "created": "2011-04-22T04:03:15.416Z",
+   "volumeCount": 0,
+   "volumesLastUpdated": "2011-04-22T04:03:17.000Z"
+  },
+  {
+   "kind": "books#bookshelf",
+   "id": 3,
+   "selfLink": "http://www.googleapis.com/books/v1/users/1112223334445556677/bookshelves/3",
+   "title": "Reading now",
+   "access": "PUBLIC",
+   "updated": "2010-11-11T19:44:22.377Z",
+   "created": "2010-11-11T19:44:22.377Z",
+   "volumeCount": 1,
+   "volumesLastUpdated": "2010-11-11T19:44:22.341Z"
+  }
+ ]
+}
